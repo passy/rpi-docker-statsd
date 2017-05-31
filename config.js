@@ -125,5 +125,5 @@ Optional Variables:
     legacyNamespace: true
   }
 , port: 8125
-, backends: [ "./backends/graphite", "./backends/console" ]
+, backends: [ "./backends/graphite" ]
 }
